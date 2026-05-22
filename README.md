@@ -1,7 +1,7 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/753b2aec-0246-40f9-ae64-e9183a16436c" />
 <!-- Profile README -->
----
+
 <h1 align="center">👋 Hey, I'm Abdulrhman Mohamed</h1>
 <p align="center">
 📊 Aspiring <strong>Data Analyst</strong> · turning raw data into clear insights <br>
