@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/abdulrhman-mohamed-da/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <a href="https://abdulrhman-mohamed.vercel.app" target="_blank">
+  <a href="[https://abdulrhman-mohamed.vercel.app](https://abdulrhman-mohamed-omega.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="https://www.youtube.com/@yeagx" target="_blank">
