@@ -1,5 +1,4 @@
 <!-- ===================== BANNER ===================== -->
-<!-- Swap this asset anytime; it's your uploaded banner -->
 <p align="center">
   <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/753b2aec-0246-40f9-ae64-e9183a16436c" />
 </p>
@@ -13,21 +12,12 @@
   </a>
 </p>
 
-<p align="center">
-  🛠 Building data pipelines · 📊 turning raw data into clear insights <br>
-  🎬 Into design, video editing & creative side projects · ⚡ always learning something new
-</p>
-
----
-
 <!-- ===================== CONNECT ===================== -->
-<h3 align="center">🌐 Connect With Me</h3>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/abdulrhman-mohamed-da/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <a href="[https://abdulrhman-mohamed.vercel.app](https://abdulrhman-mohamed-omega.vercel.app/)" target="_blank">
+  <a href="https://abdulrhman-mohamed.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="https://www.youtube.com/@yeagx" target="_blank">
@@ -41,10 +31,33 @@
   </a>
 </div>
 
+<br/>
+
+<!-- ===================== ABOUT (as code) ===================== -->
+<h3 align="center">whoami</h3>
+
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name          = "Abdulrhman Mohamed"
+        self.role          = "Data Analyst  ->  Data Engineer"
+        self.location      = "Egypt"
+        self.currently     = "Big Data Track @ Samsung Innovation Campus"
+        self.ask_me_about  = ["Python", "SQL", "Power BI", "ETL", "Spark"]
+        self.off_the_clock = ["video editing", "photography", "design"]
+
+    def motto(self) -> str:
+        return "Raw data in. Clear decisions out."
+
+
+me = DataEngineer()
+print(me.motto())
+```
+
 ---
 
 <!-- ===================== PIPELINE ===================== -->
-<h3 align="center">🧬 My Data Pipeline</h3>
+<h3 align="center">How I Move Data</h3>
 
 <div align="center">
 
@@ -63,7 +76,7 @@
 ---
 
 <!-- ===================== STACK ===================== -->
-<h3 align="center">🛠 Tech & Tools</h3>
+<h3 align="center">Tech & Tools</h3>
 
 <div align="center">
 
@@ -105,7 +118,12 @@
 ---
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
-<h3 align="center">📈 GitHub Analytics</h3>
+<h3 align="center">GitHub Analytics</h3>
+
+<!-- Contribution activity as a time-series -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeagx&bg_color=0d1117&color=DC143C&line=DC143C&point=ffffff&area=true&area_color=DC143C&hide_border=true&custom_title=Contribution%20Trend" />
+</div>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yeagx&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
@@ -123,15 +141,16 @@
 ---
 
 <!-- ===================== A LITTLE EXTRA ===================== -->
-<h3 align="center">🎬 A Little Extra</h3>
+<h3 align="center">A Little Extra</h3>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/32/1a/0c/321a0c24fa57af2b24220ffb765a1cb1.gif" height="180" alt="fun gif" />
-  <p>✨ When I'm not building data pipelines, you'll find me editing videos, shooting photos, or sketching ideas.</p>
+  <p>When I'm not building data pipelines, you'll find me editing videos, shooting photos, or sketching ideas.</p>
 </div>
-
----
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yeagx.yeagx&left_color=crimson&right_color=black" />
 </div>
+
+<!-- ===================== FOOTER WAVE ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:DC143C&height=120&section=footer" />
