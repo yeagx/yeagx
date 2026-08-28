@@ -62,13 +62,13 @@ print(me.motto())
 <div align="center">
 
 ```
-╔══════════╗   ╔══════════╗   ╔══════════╗   ╔══════════╗   ╔══════════╗
-║  INGEST  ║──▶║  STORE   ║──▶║ PROCESS  ║──▶║ ANALYZE  ║──▶║ DELIVER  ║
-╠══════════╣   ╠══════════╣   ╠══════════╣   ╠══════════╣   ╠══════════╣
-║ Kafka    ║   ║ Hadoop   ║   ║ Spark    ║   ║ Python   ║   ║ Power BI ║
-║ NiFi     ║   ║ Postgres ║   ║ SQL      ║   ║ pandas   ║   ║ Tableau  ║
-║ CSV/APIs ║   ║ MySQL    ║   ║ PySpark  ║   ║ sklearn  ║   ║ Excel    ║
-╚══════════╝   ╚══════════╝   ╚══════════╝   ╚══════════╝   ╚══════════╝
+
+   INGEST   ──▶    STORE    ──▶ PROCESS   ──▶  ANALYZE  ──▶  DELIVER  
+╠══════════╣    ╠══════════╣   ╠══════════╣   ╠══════════╣   ╠══════════╣
+║ Kafka    ║    ║ Hadoop   ║   ║ Spark    ║   ║ Python   ║   ║ Power BI ║
+║ NiFi     ║    ║ Postgres ║   ║ SQL      ║   ║ pandas   ║   ║ Tableau  ║
+║ CSV/APIs ║    ║ MySQL    ║   ║ PySpark  ║   ║ sklearn  ║   ║ Excel    ║
+╚══════════╝    ╚══════════╝   ╚══════════╝   ╚══════════╝   ╚══════════╝
 ```
 
 </div>
@@ -126,8 +126,8 @@ print(me.motto())
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yeagx&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeagx&layout=compact&hide_border=true&bg_color=0d1117&title_color=DC143C&text_color=ffffff&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-ten-eta-97.vercel.app/api?username=yeagx&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats-ten-eta-97.vercel.app/api/top-langs/?username=yeagx&layout=compact&hide_border=true&bg_color=0d1117&title_color=DC143C&text_color=ffffff&langs_count=8" />
 </div>
 
 <div align="center">
@@ -153,4 +153,4 @@ print(me.motto())
 </div>
 
 <!-- ===================== FOOTER WAVE ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:DC143C&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:DC143C&height=120&section=footer" /> 
